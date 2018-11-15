@@ -39,6 +39,7 @@ def print_courses
       puts "  Description: #{course.description}"
     end
   end
+  end
 
 end
 
